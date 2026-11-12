@@ -1,0 +1,2 @@
+model,threshold,roc_auc,pr_auc,recall,precision,flagged_share
+RandomForestClassifier,0.437,0.658,0.179,0.511,0.149,0.309

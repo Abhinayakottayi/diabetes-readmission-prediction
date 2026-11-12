@@ -1,0 +1,12 @@
+.venv/
+venv/
+data/raw/
+data/interim/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.vscode/
+.DS_Store
+Thumbs.db
+data/diabetic_data.csv
+data/diabetes_clean.csv
