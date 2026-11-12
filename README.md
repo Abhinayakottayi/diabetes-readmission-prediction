@@ -228,7 +228,7 @@ streamlit run app.py
 
 Run it from the project root. It needs `models/best_pipeline.joblib` and `data/processed/train.csv`, which are created by running the notebooks.
 
-![Streamlit app](reports/figures/app_screenshot.png)
+![Streamlit app](reports/figures/app_screenshot_1.png)
 
 The app is a demonstration only. Scores are ranking scores, not literal probabilities, and most flagged patients are not readmitted.
 
